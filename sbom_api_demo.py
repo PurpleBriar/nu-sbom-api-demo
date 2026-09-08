@@ -4,10 +4,9 @@ import time
 
 MY_EMAIL = ""
 MY_PASSWORD = "" 
-# Run "anaconda auth api-key" (or "anaconda auth api-key --at nucleus-staging" for staging) 
-# at the command line and place the value here:
+# Run "anaconda auth api-key" at the command line and place the value here:
 MY_API_KEY = ""
-HOSTNAME = "https://repo.anaconda.cloud" # "https://repo-latest.dev-us-east-1.anaconda.cloud" for staging
+HOSTNAME = "https://repo.anaconda.cloud" 
 
 def create_session(**kwargs):
     session = requests.Session()
