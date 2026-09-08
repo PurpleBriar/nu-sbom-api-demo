@@ -13,4 +13,4 @@ A demo project with sample SBOM API calls
 
 ## Run
 
-- Run python sbom_api_demo.py
+- Run `python sbom_api_demo.py`
