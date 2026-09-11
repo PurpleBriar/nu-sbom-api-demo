@@ -1,6 +1,6 @@
 # SBOM API Demo
 
-A demo project with sample SBOM API calls to the SBOM endpoints that enable SBOM retrieval by package SHA256:
+A demo project with sample API calls to endpoints that enable SBOM retrieval by package SHA256:
 ```bash
 https://repo.anaconda.cloud/repo/{channel_name}/sboms/sha256/{package_sha256}
 ```
