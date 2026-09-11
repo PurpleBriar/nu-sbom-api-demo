@@ -18,7 +18,7 @@ https://repo.anaconda.cloud/repo/{channel_name}/sboms/by-properties/{artifact_fa
 
 
 ## Restrictions
-These endpoints only retrieve SBOMs for `main` and `main-x` channels in SPDX format as JSON (view) or stream (download). View mode should work for most applications.
+These endpoints only retrieve SBOMs for Anaconda's `main` and `main-x` channels in SPDX format as JSON (view) or stream (download). View mode should work for most applications.
 
 ## Prerequisites
 A user must have a seat in an organization with a business subscription
